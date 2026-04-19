@@ -352,6 +352,10 @@ body.is-intro-offscreen .brand-mark {
     text-align: center;
 }
 
+.rhythm-perception {
+    opacity: 0.4;
+}
+
 .brand-mark.is-docked {
     align-items: baseline;
 }
@@ -721,7 +725,7 @@ body.is-intro-offscreen .brand-mark {
 }
 
 .not-recommended-for-photosensitive-people {
-    text-align: right;
+    text-align: center;
 }
 
 @keyframes sweep {
